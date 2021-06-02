@@ -1,6 +1,18 @@
 
 
-## 🖖 Douglas Silvino Machado
+## <?php
+function saudacao( $nome = '' ) {
+	date_default_timezone_set('America/Sao_Paulo');
+	$hora = date('H');
+	if( $hora >= 6 && $hora <= 12 )
+		return 'Bom dia' . (empty($nome) ? '' : ', ' . $nome);
+	else if ( $hora > 12 && $hora <=18  )
+		return 'Boa tarde' . (empty($nome) ? '' : ', ' . $nome);
+	else
+		return 'Boa noite' . (empty($nome) ? '' : ', ' . $nome);
+}
+$login = 'Danilo Iannone';
+echo saudacao( $login );
  <div>
   <!--<a href="https://github.com/douglassilvino">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=douglassilvino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> -->
