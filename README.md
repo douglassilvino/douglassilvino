@@ -2,10 +2,10 @@
 <h1 style= "font-size: 18px">Oiee, Você esta visitando o repositório <br>GitHub do Douglas. Bem Vindo!</h1>
 </div>
   <a href="https://github.com/douglassilvino">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=douglassilvino&show_icons=true&theme= radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=douglassilvino&show_icons=true&theme= dark&include_all_commits=true&count_private=true"/>
 
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglassilvino&layout=compact&langs_count=16&theme= radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglassilvino&layout=compact&langs_count=16&theme= dark"/>
 <div>
 <div style="display: inline_block"><br>
   <img align="center" alt="douglas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
