@@ -1,6 +1,6 @@
 
 
-## #> fingers Douglas Silvino Machado
+## 🖖 Douglas Silvino Machado
  <div>
   <!--<a href="https://github.com/douglassilvino">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=douglassilvino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> -->
