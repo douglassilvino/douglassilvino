@@ -1,4 +1,4 @@
-<img align="right" width="400" height="400" src="https://github.com/douglassilvino/douglassilvino/blob/main/coffeBabyYoda.gif">
+<img align="right" width="300" height="400" src="https://github.com/douglassilvino/douglassilvino/blob/main/coffeBabyYoda.gif">
 <div font-family: 'Ubuntu Condensed', sans-serif;>
 <h1 style= "font-size: 18px">Oiee, Você esta visitando o repositório <br>GitHub do Douglas. Bem Vindo!</h1>
 </div>
